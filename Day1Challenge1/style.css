@@ -29,5 +29,10 @@ body {
   margin: 0 auto;
 
   padding: 2em;
-  height: 300px;
+  /* height: 300px; Fix 2 - don't set a height */
+}
+
+/* Implement 1 - set the width of the content to 50% (of the parent) */
+.intro-content {
+  width: 50%;
 }

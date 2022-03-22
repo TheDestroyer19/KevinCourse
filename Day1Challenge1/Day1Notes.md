@@ -23,5 +23,5 @@ Other options for setting height:
 
 # Challenge 1 Goals:
 
-* Limit text to midpoint
-* Prevent text from overflowing on narrow screens
+1. Limit text to midpoint
+2. Prevent text from overflowing on narrow screens
